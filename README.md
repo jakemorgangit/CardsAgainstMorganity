@@ -11,6 +11,6 @@ Future tasks wishlist:
 
 * ETL master prompts and reponses into MariaDB, maintain and categorise/tag 
 * Port to JavaScript
-* Write a front end as a game - randomly issues cards based on preference.  Cards are displayed on screen.
+* Write a front end as a game - randomly issues cards based on preference.  Cards are displayed on screen.  -- DONE!  https://cardsagainst.cards
 * Multi-user session - start/join game with session ID and password - users can vote on winning and worst responses.
 * Containerise
